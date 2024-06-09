@@ -30,6 +30,11 @@ The /code folder includes:
 5) Source the script using the command to generate bitstream: `source "path_to_your_script/bitstream_prj.tcl"`
 
 
-## NOTES
-To contribute refers to the dev branch! Thanks and see you around! :)
+## REFERENCE
+If you use this repo, please cite:
+
+"Di Florio, M. Tcl-Vivado (Version 1.0.0) [Computer software]. https://github.com/MattiaDif/Tcl-Vivado"
+
+## Notes
+To contribute refers to the *dev* branch! Thanks and see you around! :)
 
