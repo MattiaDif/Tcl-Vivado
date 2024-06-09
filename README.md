@@ -1,4 +1,4 @@
-# Tcl-Vivado-init
+# Tcl-Vivado
 
 This repo offers support to anyone who wants to start handling Xiinx Vivado project via Tcl scripts. This is very convenient since it allows to automatize the processes of, but not limited to, project initialization, syhnthesis, implementation, and bistream generation. 
 
