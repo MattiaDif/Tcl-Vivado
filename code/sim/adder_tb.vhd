@@ -11,8 +11,7 @@ architecture Behavioral of adder_tb is
         port (
             a     : in  std_logic_vector(3 downto 0);
             b     : in  std_logic_vector(3 downto 0);
-            sum   : out std_logic_vector(3 downto 0);
-            carry : out std_logic
+            sum   : out std_logic_vector(3 downto 0)
         );
     end component;
     
@@ -20,14 +19,12 @@ architecture Behavioral of adder_tb is
     signal a     : std_logic_vector(3 downto 0);
     signal b     : std_logic_vector(3 downto 0);
     signal sum   : std_logic_vector(3 downto 0);
-    signal carry : std_logic;
 begin
     -- Instantiate the Adder
     UUT: adder port map (
         a => a,
         b => b,
-        sum => sum,
-        carry => carry
+        sum => sum
     );
     
     -- Test process
