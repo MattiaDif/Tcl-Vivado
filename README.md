@@ -20,14 +20,16 @@ The /code folder includes:
 - /xdc folder: constraint file of Digilent Arty A7
 - init_prj.tcl --> Tcl scipt for Vivado project initialization
 - bistream_prj.tcl --> Tcl script for bistream generation
+- sim_prj.tcl --> Tcl script for lunching simulation
 
 # How to use
 
 1) Open Xilinx Vivado
 2) Open the Tcl console (usually found at the bottom of the Vivado window)
 3) Locate the script using the command: `cd "path_to_your_script"`
-4) Source the script using the command to initialize the project: `source "path_to_your_script/init_prj.tcl"`
-5) Source the script using the command to generate bitstream: `source "path_to_your_script/bitstream_prj.tcl"`
+4) Source the script using this command to initialize the project: `source "path_to_your_script/init_prj.tcl"`
+5) Source the script using this command to generate bitstream: `source "path_to_your_script/bitstream_prj.tcl"`
+6) Source the script using this command to lunch a simulation: `source "path_to_your_script/sim_prj.tcl"`
 
 
 ## REFERENCE
