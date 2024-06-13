@@ -35,8 +35,8 @@ The /code folder includes:
 ## REFERENCE
 If you use this repo, please cite:
 
-"Di Florio, M. Tcl-Vivado (Version 1.0.0) [Computer software]. https://github.com/MattiaDif/Tcl-Vivado"
+"Di Florio, M. Tcl-Vivado (Version 0.2) [Computer software]. https://github.com/MattiaDif/Tcl-Vivado"
 
 ## Notes
-To contribute refers to the *dev* branch! Thanks and see you around! :)
+To contribute refers to the *dev* branch! 
 
